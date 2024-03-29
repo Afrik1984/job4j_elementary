@@ -3,7 +3,6 @@ package ru.job4j.condition;
 import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;
 
-
 class PointTest {
 
     @Test
@@ -31,7 +30,7 @@ class PointTest {
     @Test
     void whenMinus11to41then5() {
         double expected = 5;
-        int x1 = - 1;
+        int x1 = -1;
         int y1 = 1;
         int x2 = 4;
         int y2 = 1;
