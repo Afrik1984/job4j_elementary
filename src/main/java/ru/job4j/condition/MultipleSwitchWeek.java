@@ -11,6 +11,6 @@ public class MultipleSwitchWeek {
             case "Суббота" -> 6;
             case "Воскресенье" -> 7;
             default -> -1;
-        } ;
+        };
     }
 }
